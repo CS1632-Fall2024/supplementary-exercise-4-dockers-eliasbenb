@@ -586,4 +586,4 @@ When you have done all the tasks you can, please submit "Supplementary Exercise
 whether you were able to complete a task and reflections.  If you were not able
 to complete a task, please mark "No".  For the tasks that you said "No", I
 expect you to explain the issue that prevented you from fulfilling the task on
-the reflections questions at the end of Part 1 and Part 2.
+the reflection questions at the end of Part 1 and Part 2.
